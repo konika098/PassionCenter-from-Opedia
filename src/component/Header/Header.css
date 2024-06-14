@@ -1,0 +1,37 @@
+/* *{
+  gap: 0px;
+  margin: 0px;
+} */
+.PassionLogo {
+  width: 90.45px;
+  height: 70px;
+  gap: 0px;
+  margin-top: 20px;
+  
+ 
+opacity: 0px;
+
+}
+.menu {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 18px;
+  line-height: 22px;
+  margin-top: 20px;
+  color: rgba(255, 255, 255, 1);
+}
+.menu1 {
+  margin-right: 22px;
+}
+/* .button {
+  background: rgba(247, 85, 14, 1);
+  color: rgba(255, 255, 255, 1);
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22.68px;
+  
+  
+} */
